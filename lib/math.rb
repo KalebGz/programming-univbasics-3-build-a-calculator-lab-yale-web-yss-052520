@@ -19,7 +19,7 @@ num1%num2
 end
 
 def square_root(num)
-puts Math.sqrt(num)
+Math.sqrt(num)
 end
 
 # square_root(81)
