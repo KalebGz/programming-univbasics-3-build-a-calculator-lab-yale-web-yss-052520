@@ -22,3 +22,4 @@ def square_root(num)
 puts Math.square_root(num)
 end
 
+square_root(81)
